@@ -22,6 +22,7 @@ Developed by:S.ANUSHARON
 
 RegisterNumber: 212222240010
 '''
+
 with open("text2.txt", 'r')as fp:
 
     msg1=fp.read()
